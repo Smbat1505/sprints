@@ -1,0 +1,16 @@
+.DS_Store
+.idea/
+node_modules/
+build/           # Если используется для хранения собранных файлов
+/dist/           # Аналогично, если используется для хранения собранных файлов
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+*.log.*
+*.swp
+*.swo
+.vscode/         # Если используется Visual Studio Code
+*.iml            # Если используется IntelliJ IDEA
+out/             # Если используется WebStorm
+.DS_Store?

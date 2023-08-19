@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sprint_1/week_1/homework/homework-front-main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sprint_1/week_1/nativJS:TS/dimich/testing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sprint_1/week_2/nativJS:TS/dimich/testing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sprint_1/week_3/nativJS:TS/dimich/testing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sprint_1/week_3/todolist" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sprint_1/week_4/nativJS:TS/dimich/testing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sprint_2/week_4/todolist/igor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sprint_3/week_4/todolist/igor" vcs="Git" />
+  </component>
+</project>
